@@ -5,7 +5,7 @@ import com.meetyou.chartview.model.PointValue;
 
 /**
  * 线图 标签点击事件
- * @author zhengxiaobin@xiaoyouzi.com
+ * @author zhengxiaobin
  * @since  17/3/2 上午11:04
  */
 public interface LineChartOnLabelSelectListener {
